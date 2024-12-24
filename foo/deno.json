@@ -1,0 +1,5 @@
+{
+  "name": "@carltonj2000/bar",
+  "version": "0.1.0",
+  "exports": "./lib.ts"
+}
